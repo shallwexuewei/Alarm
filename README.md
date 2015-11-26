@@ -24,8 +24,8 @@ The layout should be 3 button and a updating window:
 ##Language:
 Python
 
-##Main dependency:
+##dependency:
 PyQt
 
-Environment:
+##Environment:
 Windows
