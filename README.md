@@ -2,7 +2,7 @@
 A simple alarm clock application
 
 ##<b>Motivation:</b>
-<p>
+
 The main function is timer for 10 minutes, 20 minutes and 30 minutes. 
 
 The layout should be 3 button and a updating window:
@@ -23,7 +23,7 @@ The layout should be 3 button and a updating window:
 | remaining: |
 | ** mins    |
 --------------
-</p>
+
 
 ##functions:
 1. click the buttons of 10 mins etc. to set the timer.
