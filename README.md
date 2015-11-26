@@ -1,7 +1,7 @@
 # Alarm
 A simple alarm clock application
 
-<b>Motivation:</b>
+#<b>Motivation:</b>
 <p>
 The main function is timer for 10 minutes, 20 minutes and 30 minutes. 
 
