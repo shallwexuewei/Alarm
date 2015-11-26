@@ -7,12 +7,8 @@ The main function is timer for 10 minutes, 20 minutes and 30 minutes.
 
 The layout should be 3 button and a updating window:
 
-<table style="width:100%">
-<tr> 10 mins </tr>
-<tr> 20 mins </tr>
-<tr> 30 mins </tr>
-<tr> remaining time </tr>
-</table>
+*10
+*20
 --------------
 | 10 mins    | 
 --------------
