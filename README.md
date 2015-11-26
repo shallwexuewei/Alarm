@@ -1,7 +1,7 @@
 # Alarm
 A simple alarm clock application
 
-Motivation:
+<b>Motivation:</b>
 The main function is timer for 10 minutes, 20 minutes and 30 minutes. 
 
 The layout should be 3 button and a updating window:
