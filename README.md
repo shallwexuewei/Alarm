@@ -9,6 +9,8 @@ The layout should be 3 button and a updating window:
  
 -------------------------
 | 10 mins               |  
+| 20 mins               |  
+| 30 mins               |  
 | 20 mins               | 
 | 30 mins               |  
 -------------------------
