@@ -3,28 +3,12 @@ Created on 2015-11-26
 
 @author: Xuewei (Harvey) Wu
 '''
-
-from PyQt4.QtCore import *
-from PyQt4.QtGui import *
+from MainView import MainView
 import sys
 
-class MyWindow(QWidget):
-    def __init__(self, parent=None):
-        QWidget.__init__(self, parent)
-        self.label = QLabel("Alarm!", self)
-        
-        #self.button = QPushButton("&Quit", self)
-        #self.connect(self.button, SIGNAL("clicked()"), QCoreApplication.instance(), SLOT("quit()"))
-        
-        lay = QVBoxLayout()
-        lay.addWidget(self.label)
-        #lay.addWidget(self.button)
-        
-        self.setLayout(lay)
+from PyQt4.QtGui import *
 
 app = QApplication(sys.argv)
-mw = MyWindow()
+mw = MainView()
 mw.show()
-sys.exit(app.exec_())
-
- 
+sys.exit(app.exec_()) 
