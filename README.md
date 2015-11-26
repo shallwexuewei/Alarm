@@ -1,7 +1,7 @@
 # Alarm
 A simple alarm clock application
 
-#<b>Motivation:</b>
+##<b>Motivation:</b>
 <p>
 The main function is timer for 10 minutes, 20 minutes and 30 minutes. 
 
@@ -25,15 +25,15 @@ The layout should be 3 button and a updating window:
 --------------
 </p>
 
-functions:
+##functions:
 1. click the buttons of 10 mins etc. to set the timer.
 2. the window of remaining time should update real time
 3. when a timer is activated, click any button would reset the timer to new time
 
-Language:
+##Language:
 Python
 
-Main dependency:
+##Main dependency:
 PyQt
 
 Environment:
