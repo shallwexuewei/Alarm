@@ -6,9 +6,7 @@ A simple alarm clock application
 The main function is timer for 10 minutes, 20 minutes and 30 minutes. 
 
 The layout should be 3 button and a updating window:
-
-*10
-*20
+ 
 --------------
 | 10 mins    | 
 --------------
