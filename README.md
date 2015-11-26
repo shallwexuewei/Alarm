@@ -7,6 +7,12 @@ The main function is timer for 10 minutes, 20 minutes and 30 minutes.
 
 The layout should be 3 button and a updating window:
 
+<tb>
+<tr> 10 mins </tr>
+<tr> 20 mins </tr>
+<tr> 30 mins </tr>
+<tr> remaining time </tr>
+</tb>
 --------------
 | 10 mins    | 
 --------------
