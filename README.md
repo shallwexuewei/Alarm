@@ -9,11 +9,11 @@ The layout should be 3 button and a updating window:
 
 
 | title bar| 
-| -------- | 
+| -------- |
+| remaining time  | 
 | 10 mins  | 
 | 20 mins  | 
 | 30 mins  | 
-| remaining time  | 
 
 
 ##functions:
